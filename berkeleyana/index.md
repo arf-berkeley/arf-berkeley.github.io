@@ -6,4 +6,4 @@
 [Berkeley History Project](/berkeleyana/index.md)
 
 ### Berkeley Architecture History Leaflet Map in Browser
-[Berkeley History Leaflet Map](/arch/index.htm)
+[Berkeley History Leaflet Map](/berkeleyana/arch)
