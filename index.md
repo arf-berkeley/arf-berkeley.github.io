@@ -2,5 +2,6 @@
 
 ## Projects
 
-### Berkeley Architectural History Leaflet page
+## Sandbox
+### Berkeley Architectural History Mapping
 [Berkeley History Project](/berkeleyana/index.md)
