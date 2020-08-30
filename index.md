@@ -1,11 +1,10 @@
 # [Archaeological Research Facility, UC Berkeley](http://arf.berkeley.edu) - Github Page
 
 ## Projects
-
-### Berkeley Architectural History Mapping in Leaflet 
-![](images/landmarks1.PNG)
 ---
-View the **[Berkeley Historical Map](https://arf-berkeley.github.io/berkeleyana/arch/index.html)**
+### Berkeley Architectural History Mapping in Leaflet 
+![https://arf-berkeley.github.io/berkeleyana/arch/index.html](images/landmarks1.PNG)
+View the **[Berkeley Historical Map in the browser](https://arf-berkeley.github.io/berkeleyana/arch/index.html)**
 ---
 This Leaflet map will load in your browser and does not require an app or special libraries. 
 Click the Legend icon on the top right to view the legend showing the 6 most well-represented architects in Berkeley ![](images/leaflet_legend.png)
