@@ -8,7 +8,7 @@ View the **[Berkeley Historical Map](https://arf-berkeley.github.io/berkeleyana/
 This Leaflet map will load in your browser and does not require an app or special libraries. 
 Click the Legend icon on the top right to view the legend showing the 6 most well-represented architects in Berkeley ![](images/leaflet_legend.png)
 #### Your current Location requires permission
-To make the most of this map on your smartphone give the page permission to indicate your current location. To enable this feature click the black placemark icon on the left.  <img class="fit-picture" src="leaflet_location.png">
+To make the most of this map on your smartphone give the page permission to indicate your current location. To enable this feature click the black placemark icon on the left.  ![](images/leaflet_location.png)
 A permissions alert will appear. 
 On the iPhone it reads: “The website “arf-berkeley.github.io” would like to use your current location". Choose **Allow**.
 
