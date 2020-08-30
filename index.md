@@ -3,8 +3,6 @@
 ## Projects
 
 ### Berkeley Architectural History Mapping in Leaflet
-The Landmarks data were acquired from the [Berkeley Architectural History Association](http://berkeleyheritage.com/berkeley_landmarks/all_landmarks.html) in May 2020
-
 View the **[Berkeley Historical Map](https://arf-berkeley.github.io/berkeleyana/arch/index.html)**
 
 This Leaflet map will load in your browser and does not require an app or special libraries. 
@@ -15,3 +13,5 @@ A permissions alert will appear.
 On the iPhone it reads: “The website “arf-berkeley.github.io” would like to use your current location". Choose **Allow**.
 
 On Android it reads "Allow arf-berkeley.github.io" to use your location?" Choose **Allow**.
+
+Landmarks Data courtesy of the  [Berkeley Architectural History Association](http://berkeleyheritage.com/berkeley_landmarks/all_landmarks.html), May 2020.
