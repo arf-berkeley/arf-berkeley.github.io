@@ -1,6 +1,6 @@
-# UC Berkeley Archaeological Research Facility Github Page
+# [Archaeological Research Facility](http://arf.berkeley.edu) UC Berkeley - Github Page
 
 ## Projects
 
 ### Berkeley Architectural History Leaflet page
-[Berkeley History Project]/berkeleyana/index.md
+[Berkeley History Project](/berkeleyana/index.md)
