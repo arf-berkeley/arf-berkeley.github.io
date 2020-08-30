@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Berkeley Architectural History Mapping in Leaflet ![](images/landmarks1.PNG)
+### Berkeley Architectural History Mapping in Leaflet ![](images/landmarks1.png)
 View the **[Berkeley Historical Map](https://arf-berkeley.github.io/berkeleyana/arch/index.html)**
 
 This Leaflet map will load in your browser and does not require an app or special libraries. 
