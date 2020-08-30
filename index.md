@@ -4,6 +4,7 @@
 ---
 ### Berkeley Architectural History Mapping in Leaflet 
 <a href="https://arf-berkeley.github.io/berkeleyana/arch/index.html"><img src="images/landmarks1.PNG" width="250" title="Map sample image" alt="Berkeley map">
+
 View the **[Berkeley Historical Map in the browser](https://arf-berkeley.github.io/berkeleyana/arch/index.html)**
 ---
 This Leaflet map will load in your browser and does not require an app or special libraries. 
