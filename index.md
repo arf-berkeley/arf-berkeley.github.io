@@ -2,7 +2,7 @@
 
 ## Projects
 ---
-### Berkeley Architectural History Mapping in Leaflet 
+### Berkeley Architectural History Mapping in Leaflet (N. Tripcevich, Aug 2020)
 <a href="https://arf-berkeley.github.io/berkeleyana/arch/index.html"><img src="images/landmarks1.PNG" width="250" title="Map sample image" alt="Berkeley map">
 
 View the **[Berkeley Historical Map in the browser](https://arf-berkeley.github.io/berkeleyana/arch/index.html)**
