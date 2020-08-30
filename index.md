@@ -2,9 +2,11 @@
 
 ## Projects
 
-### Berkeley Architectural History Mapping in Leaflet ![](images/landmarks1.PNG)
+### Berkeley Architectural History Mapping in Leaflet 
+![](images/landmarks1.PNG)
+---
 View the **[Berkeley Historical Map](https://arf-berkeley.github.io/berkeleyana/arch/index.html)**
-
+---
 This Leaflet map will load in your browser and does not require an app or special libraries. 
 Click the Legend icon on the top right to view the legend showing the 6 most well-represented architects in Berkeley ![](images/leaflet_legend.png)
 #### Your current Location requires permission
