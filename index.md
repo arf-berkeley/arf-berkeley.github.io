@@ -1,4 +1,4 @@
-# [Archaeological Research Facility](http://arf.berkeley.edu) UC Berkeley - Github Page
+# [Archaeological Research Facility, UC Berkeley](http://arf.berkeley.edu) - Github Page
 
 ## Projects
 
