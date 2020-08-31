@@ -20,4 +20,4 @@ Landmarks Data courtesy of the  [Berkeley Architectural History Association](htt
 
 ## Sandbox
 
-<a href="https://arf-berkeley.github.io/berkeleyana/index.md">Testing</a>
+<a href="https://arf-berkeley.github.io/berkeleyana/README.md">Testing</a>
