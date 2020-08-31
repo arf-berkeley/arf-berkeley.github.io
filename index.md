@@ -17,3 +17,7 @@ On the iPhone it reads: “The website “arf-berkeley.github.io” would like t
 On Android it reads "Allow arf-berkeley.github.io" to use your location?" Choose **Allow**.
 
 Landmarks Data courtesy of the  [Berkeley Architectural History Association](http://berkeleyheritage.com/berkeley_landmarks/all_landmarks.html), May 2020.
+
+## Sandbox
+
+<a href="https://arf-berkeley.github.io/berkeleyana/index.md">Testing</a>
