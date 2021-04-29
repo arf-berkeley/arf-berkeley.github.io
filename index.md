@@ -2,8 +2,8 @@
 
 ## Projects
 ---
-### Web Geochemistry Visualization Project
-https://arfberkeley.shinyapps.io/web_geochemistry/
+### Web Geochemistry Visualization Project <br />
+**https://arfberkeley.shinyapps.io/web_geochemistry/ **<br />
 Shiny App that facilitates assigning obsidian artifacts to obsidian sources by overlaying artifact XRF data on ellipses derived from obsidian source chemistry.
 
 ---
