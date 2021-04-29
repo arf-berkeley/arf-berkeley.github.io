@@ -2,6 +2,11 @@
 
 ## Projects
 ---
+### Web Geochemistry Visualization Project
+https://arfberkeley.shinyapps.io/web_geochemistry/
+Shiny App that facilitates assigning obsidian artifacts to obsidian sources by overlaying artifact XRF data on ellipses derived from obsidian source chemistry.
+
+---
 ### Berkeley Architectural History Mapping in Leaflet (N. Tripcevich, Aug 2020)
 <a href="https://arf-berkeley.github.io/berkeleyana/arch/index.html"><img src="images/landmarks1.PNG" width="250" title="Map sample image" alt="Berkeley map">
 
