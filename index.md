@@ -4,7 +4,7 @@ output:
   html_document
 ---
 ********
-**Methodological Tutorials and Web Projects hosted by the Archaeological Research Facility**
+* Methodological Tutorials and Web Projects hosted by the Archaeological Research Facility*
 ******** 
 
 ARF Website | [arf.berkeley.edu](https://arf.berkeley.edu)
