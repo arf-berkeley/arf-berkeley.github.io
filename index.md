@@ -29,7 +29,7 @@ Github | [https://github.com/arf-berkeley/](https://github.com/arf-berkeley/)
 ********
 
 # Tutorials
-[Laying out a Site grid in QGIS with RTK GNSS](https://future link to ARF page)
+[Laying out a Site grid in QGIS with RTK GNSS](https://arf-berkeley.github.io/sitegrid-qgis.md)
 
 ********
 
