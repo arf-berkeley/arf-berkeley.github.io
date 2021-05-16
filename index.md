@@ -33,7 +33,7 @@ Github | [https://github.com/arf-berkeley/](https://github.com/arf-berkeley/)
 
 # Web Geochemistry Visualization Project
 
-**https://arfberkeley.shinyapps.io/web_geochemistry/ **
+**https://arfberkeley.shinyapps.io/web_geochemistry/** <br />
 Shiny App that facilitates assigning obsidian artifacts to obsidian sources by overlaying artifact XRF data on ellipses derived from obsidian source chemistry.
 
 ********
