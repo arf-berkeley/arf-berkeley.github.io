@@ -3,10 +3,8 @@ title: Archaeological Research Facility, UC Berkeley
 output: 
   html_document
 ---
-******** 
-# Archaeological Research Facility, UC Berkeley
-**Methodological Tutorials and Web Projects**
 
+**Methodological Tutorials and Web Projects**
 ******** 
 
 ARF Website | [arf.berkeley.edu](https://arf.berkeley.edu)
