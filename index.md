@@ -38,8 +38,13 @@ Shiny App that facilitates assigning obsidian artifacts to obsidian sources by o
 
 ********
 
-# Berkeley Architectural History Map
-[Berkeleyana Leaflet Map](https://arf-berkeley.github.io/berkeleyana/leaf2) <br />
-Leaflet experiement with location-aware map showing architectural history information.<br />
+# Architectural History Maps
+[Julia Morgan Projects] (https://arf-berkeley.github.io/architecture/juliamorgan)<br />
+Leaflet location-aware map showing Julia Morgan's architecture projects from a table shared by LandmarksCalifornia.org.<br />
 Best used on mobile device with GPS location allowed.
+
+[Berkeleyana Leaflet Map](https://arf-berkeley.github.io/berkeleyana/leaf2) <br />
+Leaflet location-aware map showing architectural history information from Berkeley Architectural History Association.<br />
+Best used on mobile device with GPS location allowed.
+
 
