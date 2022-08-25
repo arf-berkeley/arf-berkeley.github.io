@@ -39,7 +39,7 @@ Shiny App that facilitates assigning obsidian artifacts to obsidian sources by o
 ********
 
 # Architectural History Maps
-[Julia Morgan Projects] (https://arf-berkeley.github.io/architecture/juliamorgan)<br />
+[Julia Morgan Projects](https://arf-berkeley.github.io/architecture/juliamorgan)<br />
 Leaflet location-aware map showing Julia Morgan's architecture projects from a table shared by LandmarksCalifornia.org.<br />
 Best used on mobile device with GPS location allowed.
 
