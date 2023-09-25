@@ -27,7 +27,7 @@ Github | [https://github.com/arf-berkeley/](https://github.com/arf-berkeley/)
 ********
 
 # Tutorials
-[Laying out a Site grid in QGIS with RTK GNSS](https://arf-berkeley.github.io/sitegrid-qgis)
+[ARF Practical Workshops on youtube](https://www.youtube.com/playlist?list=PL8FR0R2Rs1D5J_VQ7pTyxIgmuoyVH399Y)
 
 ********
 
@@ -39,7 +39,7 @@ Shiny App that facilitates assigning obsidian artifacts to obsidian sources by o
 ********
 
 # Architectural History Maps
-[Berkeley Fire of 1923](https://arf-berkeley.github.io/1923-Fire)<br />
+[Berkeley Fire of 1923](https://arf-berkeley.github.io/1923-Fire/map)<br />
 Leaflet location-aware map showing houses built before and after the 1923 fire that destroyed over 600 homes in North Berkeley.<br />
 Best used on a mobile device with GPS location allowed for browser.
 
