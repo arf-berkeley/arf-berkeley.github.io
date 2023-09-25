@@ -39,9 +39,13 @@ Shiny App that facilitates assigning obsidian artifacts to obsidian sources by o
 ********
 
 # Architectural History Maps
+[Berkeley Fire of 1923](https://arf-berkeley.github.io/1923-Fire)<br />
+Leaflet location-aware map showing houses built before and after the 1923 fire that destroyed over 600 homes in North Berkeley.<br />
+Best used on a mobile device with GPS location allowed for browser.
+
 [Julia Morgan Projects](https://arf-berkeley.github.io/architecture/juliamorgan)<br />
 Leaflet location-aware map showing Julia Morgan's architecture projects from a table shared by LandmarksCalifornia.org.<br />
-Best used on mobile device with GPS location allowed.
+Best used on mobile device with GPS location allowed for Browser.
 
 [Berkeleyana Leaflet Map](https://arf-berkeley.github.io/berkeleyana/leaf2) <br />
 Leaflet location-aware map showing architectural history information from Berkeley Architectural History Association.<br />
